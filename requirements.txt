@@ -1,0 +1,11 @@
+fastapi==0.115.11
+uvicorn
+gunicorn
+sqlmodel
+pydantic
+sqlalchemy
+timescaledb
+requests
+python-decouple # python-dotenv also we can use
+psycopg[binary]
+requests
